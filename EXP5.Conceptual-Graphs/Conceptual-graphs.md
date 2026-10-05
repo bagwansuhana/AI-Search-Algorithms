@@ -1,4 +1,4 @@
-# Assignment 7 – Study Experiment on Conceptual Graphs
+# Assignment 6 – Study Experiment on Conceptual Graphs
 
 ## Aim
 
