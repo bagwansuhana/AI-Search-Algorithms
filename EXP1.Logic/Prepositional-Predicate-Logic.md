@@ -1,4 +1,4 @@
-# Assignment 9 – Implementation of Propositional and Predicate Logic
+# Assignment 1 – Implementation of Propositional and Predicate Logic
 
 ## Aim
 
